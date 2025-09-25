@@ -1,4 +1,3 @@
-# Install: pip install scapy numpy scikit-learn
 from scapy.all import sniff, TCP
 import numpy as np
 from sklearn.preprocessing import MinMaxScaler
